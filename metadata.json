@@ -1,0 +1,6 @@
+{
+  "name": "EKOİZ - Afet Sonrası Ekosistem Yeniden Canlandırma ve Takip Sistemi",
+  "description": "FIRST LEGO League Challenge BIOGLOW sezonu afet sonrası ekosistem takip, Arduino UNO çevresel sensör ölçümü ve canlı gözlem platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
